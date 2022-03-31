@@ -1,0 +1,23 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/pixels.css");
+
+body {
+background-color: #FFD6E5;
+}
+
+h3 {
+	color: #000000;
+	font-size: 16px;
+	font-family: 'Zen Dots', cursive;
+	text-align: right;
+}
+
+h4 {
+	color: #000000;
+	font-size: 16px;
+	font-family: 'Zen Dots', cursive;
+	text-align: right;
+}

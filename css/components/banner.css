@@ -1,0 +1,72 @@
+.banner	{
+	background-color: #390099;
+	text-align: center;
+	
+}
+
+.banner	h1 {
+	color: #FF0054;
+	font-size: 64px ;
+	font-family: 'Zen Dots', cursive;
+	text-align: center;
+	padding : 25px 5%;
+	margin: 0 auto
+	width: 1000px;
+}
+
+.banner h2 {
+	color: #FFB7CF;
+	font-size: 24px;
+	font-family: 'Zen Dots', cursive;
+	text-align: center;
+}
+
+.title {
+	display: flex; 
+	margin: 0 auto;
+	width: 1000px;
+	text-align: center;
+}
+
+#logo {
+	width: 230px;
+	height: 230px;
+}
+
+#logoviolet {
+	width: 230px;
+	height: 230px;
+}
+
+.endbanner {
+	background-color: #390099;
+	text-align: center;
+	
+}
+
+.endbanner h3 {
+	color: #FFB7CF;
+	font-size: 16px;
+	text-align: left;
+	font-family: 'Zen Dots', cursive;
+}
+
+.end {
+	display: flex;
+	justify-content: space-around;
+}
+
+.reseaux {
+	text-align: center;
+	justify-content: space-evenly;
+	width: 150px
+}
+
+.fa-brands {
+	color: #FFB7CF;
+	font-size: 60px;
+}
+
+.fa-brands:hover {
+	color: #FF0054
+}
